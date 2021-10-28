@@ -66,7 +66,7 @@ class _HomeState extends State<Home> {
                 Text(
                   data['time'],
                   style: TextStyle(
-                    fontSize: 28.0,
+                    fontSize: 45.0,
                     letterSpacing: 2.0,
                     color: Colors.white,
                   ),
